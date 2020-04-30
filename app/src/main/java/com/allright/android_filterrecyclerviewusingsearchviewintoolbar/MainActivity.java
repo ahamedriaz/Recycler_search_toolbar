@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<Model> os_version = new ArrayList<>();
     ModelAdapter mAdapter;
 
-
+// My Test Code Implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate( savedInstanceState );
